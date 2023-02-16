@@ -306,51 +306,51 @@ body {
     margin-left: 320px;
 }
 
-.sTitle {
+.s_title {
     display: flex;
     font-family: 'Philosopher', sans-serif;
     font-size: 48px;
 }
 
-.rWord {
+.r_word {
     color: #ED2353;
 }
 
-.lWord {
+.l_word {
     padding-right: 5px;
 }
 
-.sP {
+.s_p {
     margin-top: -40px;
     font-size: 18px;
     color: #81888F;
 }
 
-.sBlock .container {
+.s_block .container {
     display: flex;
 }
 
-.aBlock {
+.a_block {
     margin-top: 32px;
     margin-right: 30px;
     cursor: pointer;
 }
 
-.pPrice {
+.p_price {
     font-size: 20px;
     margin-bottom: -20px;
 }
 
-.pText {
+.p_text {
     font-size: 19px;
 }
 
-.oldPrice {
+.old_price {
     color: #81888F;
     text-decoration: line-through;
 }
 
-a.pBut {
+a.p_but {
     float: right;
     margin-top: -105px;
     display: inline-block;
@@ -365,12 +365,12 @@ a.pBut {
     border-radius: 20px;
 }
 
-a.pBut:hover {
+a.p_but:hover {
     background-color: #ED2353;
     color: #fff;
 }
 
-a.pBut:active {
+a.p_but:active {
     background: white;
 }
 
@@ -400,12 +400,12 @@ a.pBut:active {
     font-size: 38px;
 }
 
-.iFirst {
+.i_first {
     color: #ED2353;
     margin-right: 20px;
 }
 
-.strSearch {
+.str_search {
     border: 1px solid;
     margin-right: 311px;
     width: 420px;
@@ -415,7 +415,7 @@ a.pBut:active {
     text-indent: 15px;
 }
 
-.sBut {
+.s_but {
     position: relative;
     top: 63px;
     width: 216px;
@@ -427,7 +427,7 @@ a.pBut:active {
     top: 0;
 }
 
-.searchL {
+.search_l {
     margin-right: 456px;
 }
 
@@ -440,7 +440,7 @@ a.pBut:active {
     margin-left: 320px;
 }
 
-.newsTitle {
+.news_title {
     display: flex;
     font-family: 'Philosopher', sans-serif;
     margin-top: 66px;
@@ -451,21 +451,21 @@ a.pBut:active {
     margin-right: 15px;
 }
 
-.titleText {
+.title_text {
     color: #81888F;
     margin-top: -40px;
     font-size: 18px;
 }
 
-.titleR {
+.title_r {
     color: #ED2353;
 }
 
-.nContent {
+.n_content {
     margin-top: 55px;
 }
 
-.backgroundL {
+.background_l {
     width: 555px;
     height: 618px;
     background: #EF3E68;
@@ -478,7 +478,7 @@ a.pBut:active {
     top: 24px;
 }
 
-.backgroundRight {
+.background_right {
     position: absolute;
     width: 513px;
     height: 565px;
@@ -486,38 +486,38 @@ a.pBut:active {
     top: 335px;
 }
 
-.rTitle {
+.r_title {
     font-family: 'Philosopher', sans-serif;
     font-size: 48px;
 }
 
-.rText {
+.r_text {
     margin-top: -40px;
     font-weight: 700;
     padding-bottom: 71px;
 }
 
-.Description {
+.description {
     font-weight: 500;
 }
 
-.rDescription {
+.r_description {
     display: flex;
 }
 
-.newPrice {
+.new_price {
     font-size: 36px;
     color: #ED2353;
 }
 
-.nOldPrice {
+.n_old_price {
     position: relative;
     top: 40px;
     margin-left: 18px;
 }
 
 
-a.nBut {
+a.n_but {
     width: 169px;
     height: 59px;
     text-align: center;
@@ -536,21 +536,21 @@ a.nBut {
 
 }
 
-a.nBut:hover {
+a.n_but:hover {
     background-color: #ED2353;
     color: #fff;
 }
 
-a.nBut:active {
+a.n_but:active {
     background: white;
 }
 
-.nShop  {
+.n_shop  {
     position: relative;
     bottom: 15px;
 }
 
-.nImg {
+.n_img {
     position: relative;
     top: 22px;
     left: -58px;
@@ -587,21 +587,21 @@ a.nBut:active {
     left: -40px;
 }
 
-.secondNumber {
+.second_number {
     left: -60px;
     position: relative;
     top: 135px;
     font-size: 34px;
 }
 
-.firstMath {
+.first_math {
     position: relative;
     left: 613px;
     font-size: 34px;
     top: 114px;
 }
 
-.secondMath {
+.second_math {
     top: 54px;
     position: relative;
     right: -660px;
@@ -616,18 +616,18 @@ a.nBut:active {
     margin-left: 320px;
 }
 
-.footerTitle {
+.footer_title {
     display: flex;
     font-size: 48px;
     font-family: 'Philosopher', sans-serif;
 }
 
-.firstTitle {
+.first_title {
     margin-right: 20px;
     color: #ED2353;
 }
 
-.footerRight {
+.footer_right {
     top: -565px;
     float: right;
     position: relative;
@@ -636,7 +636,7 @@ a.nBut:active {
     border: 1px solid #E0E2EA;
 }
 
-.RStext {
+.r_s_text {
     font-size: 24px;
     width: 338px;
     font-family: 'Philosopher', sans-serif;
@@ -644,7 +644,7 @@ a.nBut:active {
     margin-left: 32px;
 }
 
-.aFirst, .Rimg, .aSecond, .gFirst, .gFirst, .gSecond, .eEmail {
+.a_first, .r_img, .a_second, .g_first, .g_first, .g_second, .e_email {
     margin-left: 32px;
 }
 
@@ -654,25 +654,25 @@ a.nBut:active {
     margin-left: 75px;
 }
 
-.eEmail {
+.e_email {
     margin-left: 35px;
 }
 
-.aFirst {
+.a_first {
     margin-top: 48px;
     color: #A9A9B6;
 }
 
-.aSecond {
+.a_second {
     margin-top: -15px;
     padding-bottom: 29px;
 }
 
-.gFirst {
+.g_first {
     color: #A9A9B6;
 }
 
-.gSecond {
+.g_second {
     margin-top: -10px;
     padding-bottom: 46px;
 }
@@ -682,12 +682,12 @@ a.nBut:active {
     bottom: 360px;
 }
 
-.nNumber {
+.n_number {
     position: relative;
     top: -40px;
 }
 
-.eEmail {
+.e_email {
     font-size: 24px;
 }
 
@@ -696,41 +696,41 @@ a.nBut:active {
     margin-left: 32px;
 }
 
-.iFirst {
+.i_first {
     cursor: pointer;
     margin-right: 12px;
 }
 
-.iSecond {
+.i_second {
     cursor: pointer;
 }
 
-.tLogo {
+.t_logo {
     display: flex;
 }
 
-.tLogo img {
+.t_logo img {
     height: 19px;
     position: relative;
     top: 17px;
     margin-left: 10px;
 }
 
-.tLogo p {
+.t_logo p {
     color: #ED2353;
 }
 
-.fTop {
+.f_top {
     margin-top: 110px;
 }
 
-.tRight {
+.t_right {
     position: relative;
     margin-left: 373px;
     margin-top: -40px;
 }
 
-.tRight p {
+.t_right p {
     color: #A9A9B6;
 }
 
@@ -767,15 +767,15 @@ a.nBut:active {
         margin-left: 60px;
     }
 
-    .sBlock .container {
+    .s_block .container {
         margin-left: 12px;
     }
 
-    .aBlock {
+    .a_block {
         margin-right: 0;
     }
 
-    .sBlock .container {
+    .s_block .container {
         margin-left: -44px;
     }
 
@@ -792,11 +792,11 @@ a.nBut:active {
         left: 350px;
     }
 
-    .firstMath {
+    .first_math {
         left: 460px;
     }
 
-    .secondMath {
+    .second_math {
         right: -595px;
     }
 
@@ -824,7 +824,7 @@ a.nBut:active {
             margin-left: -25px;
         }
 
-        .aBlock {
+        .a_block {
             margin-right: 0;
             width: 205px;
         }
@@ -832,19 +832,19 @@ a.nBut:active {
         .main__sale {
             margin-left: 44px;
         }
-        .oldPrice {
+        .old_price {
             top: 20px;
             position: relative;
         }
 
-        .pPrice {
+        .p_price {
             margin-bottom: 0;
         }
 
         .content {
             right: 219px;
         }
-        .backgroundRight {
+        .background_right {
             position: absolute;
             width: 513px;
             height: 565px;
@@ -858,12 +858,12 @@ a.nBut:active {
             color: #fff;
         }
 
-        .secondMath {
+        .second_math {
             color: #fff;
             right: -509px;
         }
 
-        .footerRight {
+        .footer_right {
             top: -565px;
             float: right;
             position: relative;
@@ -878,14 +878,14 @@ a.nBut:active {
             font-size: 8px;
         }
 
-        .sBut {
+        .s_but {
             position: relative;
             top: 63px;
             width: 103px;
             margin-right: 483px;
         }
 
-        .strSearch {
+        .str_search {
             border: 1px solid;
             margin-right: 391px;
             width: 319px;
@@ -895,7 +895,7 @@ a.nBut:active {
             text-indent: 15px;
         }
 
-        .footerRight {
+        .footer_right {
             top: -524px;
             float: right;
             position: relative;
